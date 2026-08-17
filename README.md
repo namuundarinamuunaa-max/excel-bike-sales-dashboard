@@ -44,7 +44,8 @@ The PivotTables were used to analyze:
 
 The final dashboard includes multiple charts that make it easier to compare customer characteristics and bike purchasing behavior.
 
-![Bike Sales Dashboard]
+![Bike Sales Dashboard] <img width="892" height="650" alt="Screenshot 2026-08-17 at 11 44 34 AM" src="https://github.com/user-attachments/assets/13ed7e35-63d9-485e-a83e-507e7fb1604b" />
+
 
 ## Key Insights
 
